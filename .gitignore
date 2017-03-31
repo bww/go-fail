@@ -1,4 +1,5 @@
 build/
+bin/
 
 # Run-time data directories
 **/dist/
